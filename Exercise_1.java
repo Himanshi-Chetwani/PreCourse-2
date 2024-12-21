@@ -1,6 +1,6 @@
 // Time Complexity : O(log n) as it traverses only half of the code
 // Space Complexity : O(n) where n is len of array
-// Did this code successfully run on Leetcode : N/A
+// Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this :None
 class BinarySearch {
     /*
